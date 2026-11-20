@@ -125,7 +125,7 @@ This project supports **SDG 12 – Responsible Consumption and Production** by e
 
 ## 👨‍💻 Developer
 
-**Risky Ferdiansyah**
+**Risky Ferdiansyah, Vishal Murugan, Hareendra Sri**
 
 Project: Upcycle Project Tracker  
 Course: Programming for Mobile Devices
